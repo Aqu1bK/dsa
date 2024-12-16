@@ -53,6 +53,6 @@ int NCR(int n, int r)
 int main()
 
 {
-    printf("%d \n", NCR(4,2));
+    printf("%d \n", NCR (4,2));
     return 0;
 }
